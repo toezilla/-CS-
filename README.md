@@ -18,6 +18,7 @@
 ### Lectures
    - [Algorithm] MIT CS 6.006
    - [Algorithm] Sogang CSW 3010
+   - [Inflearn] 파이썬 알고리즘 문제풀이 
    - [Database] Berkley CS186
    - [Computer Architecture] Berkley CS 51c
    - [Computer Architecture] Carnegi Mellon CS:APP3e
