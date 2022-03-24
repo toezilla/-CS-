@@ -24,5 +24,4 @@
    - [Database] Berkley CS186
    - [Computer Architecture] Berkley CS 51c
    - [Computer Architecture] Carnegi Mellon CS:APP3e
-
-
+   - [Git] 제대로 파는 Git&GitHub - by 얄코
