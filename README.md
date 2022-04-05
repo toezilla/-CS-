@@ -5,6 +5,7 @@
    - Data Structure
    - Computer Architecture
    - Database
+   - Math
 
 <br>
 
@@ -27,4 +28,6 @@
    - [Computer Architecture] Berkley CS 51c
    - [Computer Architecture] Carnegi Mellon CS:APP3e
    - [Database] Berkley CS186
+   - [Math] Sogang STS2005 (Calculus)
+   - [Math] Sogang MAT 2110 (Linear Algebra)
    - [Git] 제대로 파는 Git&GitHub - by 얄코
