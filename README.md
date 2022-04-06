@@ -22,14 +22,14 @@
 
 ### Lectures
 #### 2022
-   - [Algorithm] MIT CS 6.006
-   - [Algorithm] Sogang CSW3010
+   - [Algorithm] MIT CS 6.006 Introduction to Algorithms
+   - [Algorithm] Sogang CSW3010 알고리즘입문
    - [ALgorithm] 인프런 파이썬 알고리즘 문제풀이
-   - [DataStructure] Sogang CSE3080
-   - [Computer Architecture] Berkley CS 51c
+   - [DataStructure] Sogang CSE3080 자료구조
+   - [Computer Architecture] Berkley CS 51c Great Ideas in Computer Architecture
    - [Computer Architecture] Carnegi Mellon CS:APP3e
-   - [Database] Berkley CS186
-   - [Network] Sogang CSE4175
-   - [Math] Sogang STS2005 (Calculus)
-   - [Math] Sogang MAT 2110 (Linear Algebra)
+   - [Database] Berkley CS186 Introduction to Database System
+   - [Network] Sogang CSE4175 기초네트워크
+   - [Math] Sogang STS2005 미적분학1
+   - [Math] Sogang MAT 2110 선형대수학
    - [Git] 제대로 파는 Git&GitHub - by 얄코
