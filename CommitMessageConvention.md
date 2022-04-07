@@ -26,10 +26,12 @@ CSE3030 2강 강의 정리
 
 | Type | Describtion |
 | --- | --- |
-| docs | 문서 추가/수정 |
-| code | 코드 추가/수정 |
+| docs | 문서 변경 |
+| code | 코드 변경 |
+| file | 파일 변경 |  
 | style | 공백, 세미콜론 등 스타일 수정 |
-| rename | 이름 변경 |  
+| rename | 이름 변경 |
+
 
 <br>
 
