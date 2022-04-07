@@ -1,5 +1,5 @@
 # **Commit Message Convention for this repository**
----  
+
 
 <br>
 ## **Example**  
@@ -43,6 +43,6 @@ CSE3030 2강 강의 정리
 
 - 길게 설명할 필요가 있을 시 작성  
 
-
+<br>
 
 ## **Footer**
