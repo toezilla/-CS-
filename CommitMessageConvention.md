@@ -1,6 +1,7 @@
 # **Commit Message Convention for this repository**
 ---  
 
+<br>
 ## **Example**  
 
 
@@ -19,7 +20,7 @@ docs: Arrays, Structures and Unions
 CSE3030 2강 강의 정리
 
 ```  
-
+<br>
 
 ## **Type**
 
@@ -30,17 +31,18 @@ CSE3030 2강 강의 정리
 | style | 공백, 세미콜론 등 스타일 수정 |
 | rename | 이름 변경 |  
 
-
+<br>
 
 ## **Subject**
 
 - 커밋의 작업 내용 간략히 설명  
 
+<br>
 
-### **Body**
+## **Body**
 
 - 길게 설명할 필요가 있을 시 작성  
 
 
 
-### **Footer**
+## **Footer**
