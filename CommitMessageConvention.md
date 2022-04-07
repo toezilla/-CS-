@@ -11,7 +11,6 @@ type: subject
 
 body (optional)
 
-
 footer (optional)
 ``` 
 
