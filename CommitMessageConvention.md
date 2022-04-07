@@ -1,7 +1,8 @@
-# **Commit Message Convention for this repository**
+# **Commit Message Convention**
 
 
 <br>
+
 ## **Example**  
 
 
