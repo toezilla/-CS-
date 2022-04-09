@@ -4,6 +4,7 @@
    - Algorithm
    - Data Structure
    - Computer Architecture
+   - Operating System
    - Database
    - Network
    - Math
