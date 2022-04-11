@@ -1,4 +1,4 @@
-
+/*
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -18,7 +18,7 @@ void polynomial_add(int, int, int, int, int*, int*);
 void polynomial_print(int, int);
 void attatch(int, int);
 
-void main() {
+void main9() {
 	
 
 }
@@ -38,3 +38,4 @@ void polynomial_add(int starta, int finisha, int startb, int finishb, int*startd
 
 	
 }
+*/
